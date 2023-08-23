@@ -6,7 +6,7 @@ import ReactDOM from 'react-dom/client';
 ReactDOM.createRoot( document.getElementById("root")).render(
   <React.StrictMode>
       <App/>
-      <MyFirstApp/>
+      <MyFirstApp title= "My First App"/>
   </React.StrictMode>
 )
 
